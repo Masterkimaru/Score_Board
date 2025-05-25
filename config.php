@@ -1,9 +1,9 @@
 <?php
 // config.php
-define('DB_HOST', 'localhost');
-define('DB_NAME', 'scoredb');
-define('DB_USER', 'root');
-define('DB_PASS', '');
+define('DB_HOST', 'sql200.infinityfree.com');
+define('DB_NAME', 'if0_39075284_scoredb');
+define('DB_USER', 'if0_39075284');
+define('DB_PASS', '43apIqryzyO');
 
 try {
   $pdo = new PDO(

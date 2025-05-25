@@ -1,6 +1,7 @@
 -- Create database
-CREATE DATABASE IF NOT EXISTS scoredb;
-USE scoredb;
+-- CREATE DATABASE IF NOT EXISTS scoredb;
+-- USE scoredb;
+USE if0_39075284_scoredb;
 
 -- Judges table
 CREATE TABLE IF NOT EXISTS judges (

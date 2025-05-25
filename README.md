@@ -26,7 +26,7 @@ A simple PHP-based scoreboard system for managing and displaying competition res
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/scoreboard-system.git
+   git clone https://github.com/Masterkimaru/Score_Board
    cd scoreboard-system
 2. Database Setup
 

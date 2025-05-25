@@ -113,4 +113,4 @@ Introduce countdown timers and contest status labels (upcoming, ongoing, ended).
 Enhance UI/UX with Bootstrap or TailwindCSS for better responsiveness.
 
 🌐 Public Demo Link
-https://your-deployment-url.com
+https://scoreboardsystem.infinityfreeapp.com/
